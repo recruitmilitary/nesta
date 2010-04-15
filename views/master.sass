@@ -1,261 +1,191 @@
-!base_color = #555
-!pale_color = #777
-!pre_background = #DFF6FB
-!code_color = !pre_background - 140
-!pre_border = !pre_background - 24
+!border_color       = #B38A33
 
-!border = 1px "solid" #ccc
-
-!sans_serif = "Trebuchet MS, Tahoma, Verdana, sans-serif"
-!serif = "Georgia, serif"
+!heading_type       = "Impact, Helvetica, Arial, sans-serif"
+!heading_type_color = "#333"
+!body_type          = "Helvetica, Arial, sans-serif"
 
 *
+  border: 0
+  font-style: 0
+  font-weight: normal
   margin: 0
   padding: 0
+  text-decoration: none
 
-#container
-  margin: 1em 1em 2em 1em
-  min-width: 54em
+body
+  background: #CCC url(/bg.body.png)
+  font-family= !body_type
+  font-size: 15px
+  text-shadow: 0 1px 1px #fff
 
-#wrapper
-  width: 52em
-  position: relative
-  left: 50%
-  margin-left: -26em
+a
+  color: #369
+  text-decoration: underline
+  &:hover
+    color: #69C
+
+#header
+  background: #666 url(/bg.header.png)
+  border-bottom: 5px solid #{!border_color}
+  padding: 20px 10% 30px
+  h1
+    float: left
+    height: 141px
+    width: 300px
+    a
+      display: block
+      background: transparent url(/logo.searchandemploy.png) 50% 50% no-repeat
+      height: 141px
+      text-indent: -9999px
+      width: 300px
+  a.rm
+    background: transparent url(/logo.recruitmilitary.png) 50% 50% no-repeat
+    float: right
+    height: 35px
+    margin-top: 53px
+    text-indent: -9999px
+    width: 200px
+
+#breadcrumb
+  background-color: #333
+  border-bottom: 5px solid #{!border_color}
+  color: #eee
+  font-family= !body_type
+  font-size: 15px
+  line-height: 15px
+  padding: 15px 10%
+  text-shadow: 0 -1px 1px #000
+  a
+    color: #B38A33
+    text-decoration: underline
+    &:hover
+      color: #D5AC55
+      text-decoration: none
 
 #content
-  margin-right: 13em
-  border-right: 1px solid #ccc
-  padding-right: 1em
+  font-family= !body_type
+  float: left
+  margin-left: 10%
+  width: 55%
+  h1, h2, h3, h4, h5, h6
+    color= !heading_type_color
+    font-family= !heading_type
+    margin: 10px 0
+  h1
+    background: transparent url(/bg.h2.png) 0 4px no-repeat
+    font-size: 32px
+    margin-left: -37px
+    padding-left: 37px
+  h2
+    font-size: 24px
+  h3
+    font-size: 18px
+  h4, h5, h6
+    font-size: 15px
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
+    color= !heading_type_color
+  .date
+    font-weight: bold
+    margin-top: 75px
+    text-transform: uppercase
+  .author
+    border-top: 1px solid #ccc
+    font-style: italic
+    font-weight: bold
+    padding-top: 1em
+  .categories
+    background: transparent url(/icon.category.png) 0 50% no-repeat
+    border-top: 1px solid #CCC
+    margin-top: 30px
+    padding: 30px 0 30px 32px
+  table
+    border-top: 2px solid #999
+    margin-bottom: 1em
+    width: 100%
+    th, td
+      border-bottom: 1px solid #CCC
+      padding: 10px 0
+      text-align: left
+    th
+      font-weight: bold
+  table.job-interest th
+    width: 300px !important
 
-body.home #sidebar
-  margin-top: 0.8em
 
 #sidebar
-  width: 12em
+  font-family= !body_type
   float: right
-  
-  margin-top: 1.3em
-  margin-bottom: 1em
-  
+  margin-right: 10%
+  padding-top: 75px
+  width: 20%
   h2
-    margin-top: 2em
-    &:first-child
-      margin-top: 0
-  
-  h2, ol, p, ul
-    color = !pale_color
-    font-family = !sans_serif
-    font-size: 90%
-
-  h2
-    color = !base_color
-
+    font-family = !heading_type
+    font-size: 18px
   ol, ul
     margin: 1em 0
     padding: 0
-    
     list-style: none
-    
     li
-      margin: 0.8em 0
-
-    a:hover
-      color: white
-      background: #77d
-      text-decoration: none
-  
-  div.feed
-    margin: 1.5em 0
-    border-top = !border
-    border-bottom = !border
-
-p.social,
-div.feed
-  color = !pale_color
-  font-family = !sans_serif
-  font-size: 90%
-
-div.feed
-  margin: 0.5em 0
-  padding-top: 1.5em
-  padding-bottom: 1.5em
-  
-  a
-    padding: 6px 0 6px 36px
-    background: url(/feed-icon.png) no-repeat left center
-
-h1, h2, h3, h4, h5, h6, p, div.breadcrumb
-  color: #333
-
-  font-family = !sans_serif
+      margin: 1em 0
+      a
+        background: transparent url(/icon.category.png) 0 3px no-repeat
+        display: block
+        line-height: 26px
+        padding-left: 30px
+  .feed
+    margin: 10px 0
+    a
+      display: block
+      line-height: 28px
+      padding: 15px 0 15px 36px
+      background: url(/icon.feed.png) no-repeat left center
 
 h1, h2, h3, h4, h5, h6
   a:hover
     text-decoration: none
 
-body.home
-  h1
-    padding-bottom: 0.5em
-    border-bottom: #aaa 1px solid
-
-    color = !base_color
-
-    text-align: left
-    font-size: 300%
-
-h2.articles
-  margin-bottom: -0.2em
-  border-top = !border
-  padding-top: 0.3em
-  
-  font-size: 120%
-
-div.breadcrumb
-  margin-bottom: 2em
-  
-  font-size: 80%
-  font-family = !sans_serif
-  
-div.date
-  margin-top: 1.5em
-  
-  font-family = !sans_serif
-  font-size: 75%
-  
-  color = !base_color
-
-#content
-  p.read_more
-    text-align: right
-    font-family = !sans_serif
-    font-size: 90%
-
-  img
-    margin: 0.75em 0 1.5em 0
-    border: 1px solid #ccc
-    padding: 2px
-
-  blockquote
-    margin: 1.5em 5%
-    padding: 0.75em
-    
-    background = #eee
-    
-    p
-      margin: 0
-
-    cite
-      display: block
-      
-      text-align: right
-  
-  div.categories
-    margin-top: 2em
-    padding: 0.8em 8px 0.85em 38px
-    
-    background: #eee url(/category-icon.png) no-repeat 8px 51%
-    
-    color = !pale_color
-    font-family = !sans_serif
-    font-size: 80%
-    
-    a
-      margin-left: 0.5em
-  
-  .social
-    float: right
-    width: auto
-    
+#footer
+  background: #999 url(/bg.footer.png)
+  clear: both
+  margin-top: 75px
+  padding: 30px 10%
+  text-align: center
+  text-shadow: 0 1px 1px #ccc
+  a
+    color: #333
+    font-weight: bold
+    text-decoration: underline
+  p
     margin: 0
-    padding-top: 1.2em
-    padding-bottom: 1.5em
-  
-    vertical-align: middle
-  
-    img
-      margin: 0 0 0 5px
-      border: none
-  
-  code, pre
-    color = !code_color
-  
-  pre
-    margin: 1.5em 0
-    border-left = 3px "solid" !pre_border
-    padding: 0.7em
+  .copyright
+    float: left
+  .powered
+    float: right
 
-    background-color = !pre_background
+body.home div#content h2
+  font-size: 32px
+  margin: 75px 0 15px -37px
+  line-height: 32px
+  a
+    background: transparent url(/bg.h2.png) 0 4px no-repeat
+    color: #333
+    padding-left: 37px
+    text-decoration: none
+  a:hover
+    background: transparent url(/bg.h2.png) 0 -475px no-repeat
+    color: #B38A33
 
-    overflow: auto
+.clearfix
+  clear: both
 
-    code
-      border: none
-      padding: 0
-  
-  #disqus_thread
-    margin-top: 0.5em
-    border-top = 3px "solid" #eee
-    padding-top: 0em
-
-    #dsq-content .dsq-options
-      background: none
-
-h1
-  margin: 0 0 0.5em 0
-  
-  font-size: 220%
-  letter-spacing: -1px
-
-  small
-    display: block
-
-    font-size: 40%
-    letter-spacing: 0
-
-h2, h3, h4, h5, h6
-  margin: 1em 0 0.5em 0
-  
-h2
-  font-size: 175%
-  
-h3
-  font-size: 130%
-
-h4
-  font-size: 110%
+// TODO Merge the below into the above...
 
 ol, ol li, p, pre, ul, ul li
   margin-bottom: 1em
 
-ol li, ul li
-  margin-bottom: 0.75em
-
 ol, p, ul
-  font-family = !serif
   line-height: 135%
   color: black
 
 ul, ol
   padding-left: 2.5em
-
-a
-  color: #66f
-  &:visited
-    color: #44a
-  &:hover
-    color: #66c
-
-#footer
-  clear: both
-  
-  margin-top: 2em
-  border-top = !border
-  padding-top: 0.5em
-
-  p
-    text-align: right
-    font-family = !sans_serif
-    font-size: 70%
-
-    color = !pale_color

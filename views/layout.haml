@@ -11,15 +11,16 @@
     %link{ :href => "/articles.xml", :rel => "alternate", :type => "application/atom+xml" }
   %body{ :class => @body_class }
     #container
-      #wrapper
-        = yield
-
-        #footer
-          %p
-            Powered by
-            = succeed "," do
-              %a{ :href => "http://effectif.com/nesta" } nesta
-            designed by
-            %a{ :href => "http://effectif.com" } Graham Ashton
+      = yield
+      
+      .clearfix
+      #footer
+        %p{ :class => "copyright" }
+          Copyright &copy; 2010
+          %a{ :href => "http://recruitmilitary.com", :title => "RecruitMilitary" } RecruitMilitary
+        %p{ :class => "powered" }
+          Powered by
+          %a{ :href => "http://effectif.com/nesta", :title => "Nesta CMS" } Nesta.
+        .clearfix
 
     = haml :analytics, :layout => false

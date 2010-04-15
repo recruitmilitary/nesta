@@ -1,5 +1,11 @@
-.breadcrumb
-  %a{ :href => "/" } Home
+#header
+  %h1
+    %a{ :href => "/" }
+      = @heading
+      %small= @subtitle
+  %a{ :href => "http://recruitmilitary.com", :class => "rm" }
+    = "RecruitMilitary"
+  .clearfix
 
 #sidebar
   = haml :categories, :layout => false

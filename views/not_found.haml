@@ -1,12 +1,18 @@
-.breadcrumb
-  %a{ :href => "/" } Home
+#header
+  %h1
+    %a{ :href => "/" }
+      = @heading
+      %small= @subtitle
+  %a{ :href => "http://recruitmilitary.com", :class => "rm" }
+    = "RecruitMilitary"
+  .clearfix
 
 #sidebar
   = haml :categories, :layout => false
   = haml :feed, :layout => false
 
 #content
-  %h1 Page not found
+  %h1{ :style => "margin-top: 75px" } Page not found
 
   %p
     Please try another page or, if you think something is wrong with our site,

@@ -1,14 +1,19 @@
-.breadcrumb
+#header
+  %h1
+    %a{ :href => "/" }
+      = @heading
+      %small= @subtitle
+  %a{ :href => "http://recruitmilitary.com", :class => "rm" }
+    = "RecruitMilitary"
+  .clearfix
+
+#breadcrumb
   %a{ :href => "/" } Home
-  &gt;
+  &#9656;
   - if @page.parent
     %a{ :href => @page.parent.abspath }= @page.parent.heading
-    &gt;
+    &#9656;
   = @page.heading
-
-#sidebar
-  = haml :categories, :layout => false
-  = haml :feed, :layout => false
 
 #content
   - if @page.date
@@ -30,6 +35,6 @@
       - @page.categories.each do |category|
         %a{ :href => category.abspath }= category.heading
 
-  = haml :social, :layout => false
-  = haml :feed, :locals => { :title => @site_title }, :layout => false
-  = haml :comments, :layout => false
+#sidebar
+  = haml :categories, :layout => false
+  = haml :feed, :layout => false
