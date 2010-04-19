@@ -23,9 +23,6 @@
   - @page.pages.each do |page|
     = haml :summary, :layout => false, :locals => { :article => page, :heading => :h3 }
 
-  - unless @page.articles.empty?
-    %h2.articles= "Articles on #{@page.heading}"
-  
   - @page.articles.each do |article|
     = haml :summary, :layout => false, :locals => { :article => article, :heading => :h3 }
 
