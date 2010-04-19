@@ -54,7 +54,7 @@ hook on the server.
 Deployment of content is achieve via a post commit hook that is setup
 on the web server.
 
-0. Setup dependencies
+0. Setup deployment dependencies
 
     gem install capistrano capistrano-ext
 
