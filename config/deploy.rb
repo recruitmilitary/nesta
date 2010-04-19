@@ -27,4 +27,11 @@ namespace :deploy do
   task :restart, :roles => :app, :except => { :no_release => true } do
     run "#{try_sudo} touch #{File.join(current_path,'tmp','restart.txt')}"
   end
+
+  desc "Symlinks the database.yml"
+  task :symlink_config, :roles => :app do
+    run "ln -nfs #{deploy_to}/shared/config/config.yml #{release_path}/config/config.yml"
+  end
 end
+
+after 'deploy:update_code', 'deploy:symlink_config'
