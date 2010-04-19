@@ -54,6 +54,10 @@ hook on the server.
 Deployment of content is achieve via a post commit hook that is setup
 on the web server.
 
+0. Setup dependencies
+
+    gem install capistrano capistrano-ext
+
 1. Setup working directory
 
     git clone git@github.com:recruitmilitary/nesta.git
