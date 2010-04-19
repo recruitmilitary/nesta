@@ -1,6 +1,5 @@
 ._*
 .bundle
 .DS_Store
-content
 db/*.db
 public/cache
