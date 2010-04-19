@@ -41,5 +41,5 @@ development:
 
 production:
   cache: true
-  content: /home/deploy/public_html/search-and-employ/current/shared/content
+  content: /home/deploy/public_html/search-and-employ/shared/content
   # google_analytics_code: "UA-???????-?"
