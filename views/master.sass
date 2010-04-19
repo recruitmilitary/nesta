@@ -27,10 +27,11 @@ a
 #header
   background: #666 url(/bg.header.png)
   border-bottom: 5px solid #{!border_color}
-  padding: 20px 10% 30px
+  padding: 20px 0 30px
   h1
     float: left
     height: 141px
+    margin-left: 10%
     width: 300px
     a
       display: block
@@ -39,12 +40,13 @@ a
       text-indent: -9999px
       width: 300px
   a.rm
-    background: transparent url(/logo.recruitmilitary.png) 50% 50% no-repeat
+    background: transparent url(/logo.recruitmilitary.png) -2px 50% no-repeat
     float: right
     height: 35px
-    margin-top: 53px
+    margin: 53px 0 0 0
+    min-width: 200px
     text-indent: -9999px
-    width: 200px
+    width: 30%
 
 #breadcrumb
   background-color: #333
@@ -146,7 +148,7 @@ h1, h2, h3, h4, h5, h6
   background: #999 url(/bg.footer.png)
   clear: both
   margin-top: 75px
-  padding: 30px 10%
+  padding: 30px 0
   text-align: center
   text-shadow: 0 1px 1px #ccc
   a
@@ -157,8 +159,12 @@ h1, h2, h3, h4, h5, h6
     margin: 0
   .copyright
     float: left
+    margin-left: 10%
   .powered
     float: right
+    margin-right: 10%
+    text-align: left
+    width: 20%
 
 body.home div#content h2
   font-size: 32px
