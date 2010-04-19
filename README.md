@@ -42,3 +42,49 @@ files in `nesta/content`, and you're on your way.
 
 See [http://effectif.com/nesta](http://effectif.com/nesta) for more
 documentation.
+
+## Deployment
+
+capistrano is required for deploying any changes to the nesta code
+base.  deployment of content changes is achieved through a post commit
+hook on the server.
+
+### Content Deployment
+
+Deployment of content is achieve via a post commit hook that is setup
+on the web server.
+
+1. Setup working directory
+
+    git clone git@github.com:recruitmilitary/nesta.git
+    git submodule sync
+    git submodule update --init
+    cd content
+    git remote add staging ssh://deploy@web1.recruitmilitary.com/home/deploy/git/search-and-employ-staging.git
+
+2. Make changes in content
+
+    cd content
+    *change*, *change*, *change*
+
+3. Push content to staging
+
+    cd content
+    git push staging master
+
+4. Push content to production
+
+    cd content
+    git push production master
+
+### Capistrano Deployment
+
+For both content and nesta code there are two environments setup for
+deployment, both staging and production.
+
+Simply provide the name of the environment you want to deploy to:
+
+    cap staging deploy
+    cap production deploy
+
+If you don't specify an environment staging will be used by default.
