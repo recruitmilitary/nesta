@@ -4,6 +4,10 @@
 !heading_type_color = "#333"
 !body_type          = "Helvetica, Arial, sans-serif"
 
+=box-shadow
+  -moz-box-shadow: 0 3px 9px #333
+  -webkit-box-shadow: 0 3px 9px #333
+
 *
   border: 0
   font-style: 0
@@ -100,6 +104,10 @@ a
     border-top: 1px solid #CCC
     margin-top: 30px
     padding: 30px 0 30px 32px
+  img
+    border: 1px solid #999
+    margin-bottom: 1em
+    +box-shadow
   table
     border-top: 2px solid #999
     margin-bottom: 1em
