@@ -16,10 +16,17 @@
   = @page.heading
 
 #content
-  - if @page.date
-    .date= format_date(@page.date)
+  .meta
+    - if @page.date
+      .date= format_date(@page.date)
+    - if @page.author
+      .byline
+        By
+        = @page.author
+    .clearfix
+  
   ~ @page.to_html
-
+  
   - @page.pages.each do |page|
     = haml :summary, :layout => false, :locals => { :article => page, :heading => :h3 }
 

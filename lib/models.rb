@@ -7,13 +7,13 @@ require "redcloth"
 class FileModel
   FORMATS = [:mdown, :haml, :textile]
   @@cache = {}
-  
+
   attr_reader :filename, :mtime
 
   def self.model_path(basename = nil)
     Nesta::Configuration.content_path(basename)
   end
-  
+
   def self.find_all
     file_pattern = File.join(model_path, "**", "*.{#{FORMATS.join(',')}}")
     Dir.glob(file_pattern).map do |path|
@@ -21,11 +21,11 @@ class FileModel
       load(relative.sub(/\.(#{FORMATS.join('|')})/, ""))
     end
   end
-  
+
   def self.needs_loading?(path, filename)
     @@cache[path].nil? || File.mtime(filename) > @@cache[path].mtime
   end
-  
+
   def self.load(path)
     FORMATS.each do |format|
       filename = model_path("#{path}.#{format}")
@@ -36,11 +36,11 @@ class FileModel
     end
     @@cache[path]
   end
-  
+
   def self.purge_cache
     @@cache = {}
   end
-  
+
   def initialize(filename)
     @filename = filename
     @format = filename.split(".").last.to_sym
@@ -55,12 +55,12 @@ class FileModel
   def path
     abspath.sub(/^\//, "")
   end
-  
+
   def abspath
     prefix = File.dirname(@filename).sub(Nesta::Configuration.page_path, "")
     File.join(prefix, permalink)
   end
-  
+
   def to_html
     case @format
     when :mdown
@@ -71,17 +71,21 @@ class FileModel
       RedCloth.new(markup).to_html
     end
   end
-  
+
   def last_modified
     @last_modified ||= File.stat(@filename).mtime
   end
-  
+
   def description
     metadata("description")
   end
-  
+
   def keywords
     metadata("keywords")
+  end
+
+  def author
+    metadata("author")
   end
 
   private
@@ -92,11 +96,11 @@ class FileModel
     def metadata(key)
       @metadata[key]
     end
-    
+
     def paragraph_is_metadata(text)
       text.split("\n").first =~ /^[\w ]+:/
     end
-    
+
     def parse_file
       first_para, remaining = File.open(@filename).read.split(/\r?\n\r?\n/, 2)
       @metadata = {}
@@ -119,7 +123,7 @@ class Page < FileModel
     def model_path(basename = nil)
       Nesta::Configuration.page_path(basename)
     end
-    
+
     def find_by_path(path)
       load(path)
     end
@@ -127,7 +131,7 @@ class Page < FileModel
     def find_articles
       find_all.select { |page| page.date }.sort { |x, y| y.date <=> x.date }
     end
-    
+
     def menu_items
       menu = Nesta::Configuration.content_path("menu.txt")
       pages = []
@@ -139,11 +143,11 @@ class Page < FileModel
   end
 
   extend ClassMethods
-  
+
   def ==(other)
     self.path == other.path
   end
-  
+
   def heading
     regex = case @format
       when :mdown
@@ -156,7 +160,7 @@ class Page < FileModel
     markup =~ regex
     Regexp.last_match(1)
   end
-  
+
   def date(format = nil)
     @date ||= if metadata("date")
       if format == :xmlschema
@@ -166,15 +170,15 @@ class Page < FileModel
       end
     end
   end
-  
+
   def atom_id
     metadata("atom id")
   end
-  
+
   def read_more
     metadata("read more") || "Continue reading"
   end
-  
+
   def summary
     if summary_text = metadata("summary")
       summary_text.gsub!('\n', "\n")
@@ -186,7 +190,7 @@ class Page < FileModel
       end
     end
   end
-  
+
   def body
     case @format
     when :mdown
@@ -200,7 +204,7 @@ class Page < FileModel
       RedCloth.new(body_text).to_html
     end
   end
-  
+
   def categories
     categories = metadata("categories")
     paths = categories.nil? ? [] : categories.split(",").map { |p| p.strip }
@@ -208,11 +212,11 @@ class Page < FileModel
       x.heading.downcase <=> y.heading.downcase
     end
   end
-  
+
   def parent
     Page.load(File.dirname(path))
   end
-  
+
   def pages
     Page.find_all.select do |page|
       page.date.nil? && page.categories.include?(self)
@@ -220,11 +224,11 @@ class Page < FileModel
       x.heading.downcase <=> y.heading.downcase
     end
   end
-  
+
   def articles
     Page.find_articles.select { |article| article.categories.include?(self) }
   end
-  
+
   private
     def valid_paths(paths)
       paths.select do |path|
