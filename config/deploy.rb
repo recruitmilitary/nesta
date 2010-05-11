@@ -7,6 +7,8 @@ set :repository,  "git://github.com/recruitmilitary/nesta.git"
 
 set :deploy_to, "/home/deploy/public_html/#{application}"
 
+set :port, 4242
+
 set :user, "deploy"
 set :use_sudo, false
 
