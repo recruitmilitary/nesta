@@ -112,6 +112,7 @@ sup
   hr
     clear: both
   img
+    background-color: #fff
     border: 1px solid #999
     margin-bottom: 1em
     +box-shadow
@@ -181,6 +182,15 @@ sup
     dd
       a
         font-weight: bold
+
+  div.info-box
+    background-color: #fff
+    border: 3px solid #{!border_color}
+    margin: 2em -2em 2.5em
+    padding: 1em 2em
+    +box-shadow
+    p
+      font-size: 13px
 
 #sidebar
   font-family= !body_type
