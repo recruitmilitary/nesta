@@ -103,7 +103,6 @@ sup
   hr
     clear: both
   img
-    background-color: #fff
     border: 1px solid #999
     margin-bottom: 1em
     +box-shadow
@@ -156,32 +155,6 @@ sup
     border-top: 1px solid #CCC
     margin-top: 30px
     padding: 30px 0 30px 32px
-  
-  dl.jobs
-    background-color: #fff
-    border: 1px solid #999
-    float: right
-    margin: 0 0 1em 1em
-    padding: 10px 15px
-    width: 140px
-    +box-shadow
-    dt, dd
-      font-weight: bold
-      margin-bottom: .25em
-    dt
-      font-weight: bold
-    dd
-      a
-        font-weight: bold
-  
-  div.info-box
-    background-color: #fff
-    border: 3px solid #{!border_color}
-    margin: 2em -2em 2.5em
-    padding: 1em 2em
-    +box-shadow
-    p
-      font-size: 13px
 
 #sidebar
   font-family= !body_type
@@ -189,19 +162,20 @@ sup
   margin-right: 10%
   padding-top: 75px
   width: 20%
-  dl
-    margin: 0 0 2em
+  h2
+    font-family = !heading_type
+    font-size: 18px
+  ol, ul
+    margin: 1em 0
     padding: 0
-    dt
-      font-family = !heading_type
-      font-size: 18px
-    dd
-      margin: 1em 0 0
+    list-style: none
+    li
+      margin: 1em 0
       a
-        background: transparent url(/icon.category.png) 0 1px no-repeat
+        background: transparent url(/icon.category.png) 0 3px no-repeat
         display: block
-        line-height: 1.25em
-        padding-left: 24px
+        line-height: 26px
+        padding-left: 30px
   .feed
     margin: 10px 0
     a
