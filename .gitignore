@@ -4,4 +4,4 @@
 .rvmrc
 db/*.db
 public/cache
-config/config.yml
+
