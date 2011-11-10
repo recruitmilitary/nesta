@@ -1,3 +1,0 @@
-[submodule "content"]
-	path = content
-	url = ssh://deploy@web1.recruitmilitary.com/home/deploy/git/search-and-employ.git
