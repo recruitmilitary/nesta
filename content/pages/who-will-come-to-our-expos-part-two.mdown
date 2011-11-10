@@ -1,0 +1,286 @@
+read more: Read more&hellip;
+date: July 28, 2010
+author: Larry Slagel
+categories: opportunity-expos
+summary: A hiring influencer for a direct employer asked us recently for a bundle of statistics to help the employer schedule a multiple-event package of RecruitMilitary Veteran Opportunity Expos. The employer was interested in exhibiting at events likely to be attended by high percentages of officers and senior enlisted personnel.
+
+# Who Will Come to Our Expos? Part Two: Judging by Rank
+
+A hiring influencer for a direct employer asked us recently for a bundle of statistics to help the employer schedule a multiple-event package of RecruitMilitary Veteran Opportunity Expos. The employer was interested in exhibiting at events likely to be attended by high percentages of officers and senior enlisted personnel---E-6's through E-9's.
+
+We keep detailed records of pre-registration and attendance of job seekers at our events. So we were able to compile the table below for this employer. The cities listed are those on our 2010 schedule, and the data were current on June 29, 2010. <a href="/attachments/pay_grade_table.jpg" title="Pay Grade Table" onclick="return popWindow(this, {title: 'PayGradeTable', width: 715, height: 492})">Another table</a> gives the ranks and rates of military personnel—e.g., "translations" of paygrades E-6--E-9 into ranks and rates (rates in the Navy and Coast Guard are equivalent to ranks for enlisted personnel in the other branches).
+
+<style type="text/css">
+  table { font-size: 13px }
+  table .city { width: 120px }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th class="city">&nbsp;</th>
+      <th>Average Preregistration, Last 4 Expos</th>
+      <th>E-6&ndash;E-9 Percentage</th>
+      <th>Officer Percentage</th>
+      <th>E-6&ndash;E-9 + Officer Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="city">Norfolk</th>
+      <td>711</td>
+      <td>35.8</td>
+      <td>11.0</td>
+      <td>46.8</td>
+    </tr>
+    <tr>
+      <th class="city">Birmingham</th>
+      <td>354 (3 Expos)</td>
+      <td>30.1</td>
+      <td>15.7</td>
+      <td>45.8</td>
+    </tr>
+    <tr>
+      <th class="city">Jacksonville</th>
+      <td>819</td>
+      <td>36.2</td>
+      <td>9.2</td>
+      <td>45.4</td>
+    </tr>
+    <tr>
+      <th class="city">Oklahoma City</th>
+      <td>404</td>
+      <td>32.6</td>
+      <td>11.7</td>
+      <td>44.3</td>
+    </tr>
+    <tr>
+      <th class="city">Washington</th>
+      <td>792</td>
+      <td>25.9</td>
+      <td>17.1</td>
+      <td>43.0</td>
+    </tr>
+    <tr>
+      <th class="city">New Orleans</th>
+      <td>311</td>
+      <td>29.6</td>
+      <td>12.4</td>
+      <td>42.0</td>
+    </tr>
+    <tr>
+      <th class="city">Raleigh</th>
+      <td>646</td>
+      <td>29.4</td>
+      <td>12.2</td>
+      <td>41.6</td>
+    </tr>
+    <tr>
+      <th class="city">Las Vegas</th>
+      <td>529 (3 Expos)</td>
+      <td>30.8</td>
+      <td>10.2</td>
+      <td>41.0</td>
+    </tr>
+    <tr>
+      <th class="city">Seattle</th>
+      <td>659</td>
+      <td>28.9</td>
+      <td>11.5</td>
+      <td>40.4</td>
+    </tr>
+    <tr>
+      <th class="city">Tampa</th>
+      <td>779</td>
+      <td>28.8</td>
+      <td>11.0</td>
+      <td>39.8</td>
+    </tr>
+    <tr>
+      <th class="city">Denver</th>
+      <td>524</td>
+      <td>23.6</td>
+      <td>15.9</td>
+      <td>39.5</td>
+    </tr>
+    <tr>
+      <th class="city">Baltimore</th>
+      <td>766</td>
+      <td>25.8</td>
+      <td>13.3</td>
+      <td>39.1</td>
+    </tr>
+    <tr>
+      <th class="city">Austin</th>
+      <td>745</td>
+      <td>27.2</td>
+      <td>11.7</td>
+      <td>38.9</td>
+    </tr>
+    <tr>
+      <th class="city">Kansas City</th>
+      <td>450</td>
+      <td>24.1</td>
+      <td>14.8</td>
+      <td>38.9</td>
+    </tr>
+    <tr>
+      <th class="city">Nashville</th>
+      <td>671</td>
+      <td>28.8</td>
+      <td>10.1</td>
+      <td>38.9</td>
+    </tr>
+    <tr>
+      <th class="city">Pittsburgh</th>
+      <td>303 (3 Expos)</td>
+      <td>24.2</td>
+      <td>13.2</td>
+      <td>37.4</td>
+    </tr>
+    <tr>
+      <th class="city">Charlotte</th>
+      <td>911</td>
+      <td>26.3</td>
+      <td>10.3</td>
+      <td>36.6</td>
+    </tr>
+    <tr>
+      <th class="city">Boston</th>
+      <td>439</td>
+      <td>21.2</td>
+      <td>15.3</td>
+      <td>36.5</td>
+    </tr>
+    <tr>
+      <th class="city">San Diego</th>
+      <td>645</td>
+      <td>27.5</td>
+      <td>8.9</td>
+      <td>36.4</td>
+    </tr>
+    <tr>
+      <th class="city">Portland</th>
+      <td>392 (3 Expos)</td>
+      <td>21.2</td>
+      <td>14.8</td>
+      <td>36.0</td>
+    </tr>
+    <tr>
+      <th class="city">Atlanta</th>
+      <td>891</td>
+      <td>24.4</td>
+      <td>11.3</td>
+      <td>35.7</td>
+    </tr>
+    <tr>
+      <th class="city">St. Louis</th>
+      <td>501</td>
+      <td>25.4</td>
+      <td>10.3</td>
+      <td>35.7</td>
+    </tr>
+    <tr>
+      <th class="city">Cincinnati</th>
+      <td>585</td>
+      <td>20.2</td>
+      <td>13.5</td>
+      <td>33.7</td>
+    </tr>
+    <tr>
+      <th class="city">Indianapolis</th>
+      <td>508</td>
+      <td>22.5</td>
+      <td>10.7</td>
+      <td>33.2</td>
+    </tr>
+    <tr>
+      <th class="city">San Jose</th>
+      <td>281 (1 Expo)</td>
+      <td>21.4</td>
+      <td>11.0</td>
+      <td>32.4</td>
+    </tr>
+    <tr>
+      <th class="city">Philadelphia</th>
+      <td>798</td>
+      <td>21.1</td>
+      <td>11.1</td>
+      <td>32.2</td>
+    </tr>
+    <tr>
+      <th class="city">Dallas</th>
+      <td>787</td>
+      <td>21.9</td>
+      <td>8.9</td>
+      <td>30.8</td>
+    </tr>
+    <tr>
+      <th class="city">Oakland</th>
+      <td>463</td>
+      <td>19.9</td>
+      <td>9.9</td>
+      <td>29.8</td>
+    </tr>
+    <tr>
+      <th class="city">Houston</th>
+      <td>552</td>
+      <td>20.3</td>
+      <td>9.2</td>
+      <td>29.5</td>
+    </tr>
+    <tr>
+      <th class="city">Phoenix</th>
+      <td>569</td>
+      <td>21.1</td>
+      <td>7.3</td>
+      <td>28.4</td>
+    </tr>
+    <tr>
+      <th class="city">Los Angeles</th>
+      <td>631</td>
+      <td>17.7</td>
+      <td>9.5</td>
+      <td>27.2</td>
+    </tr>
+    <tr>
+      <th class="city">Long Beach</th>
+      <td>631</td>
+      <td>17.6</td>
+      <td>9.5</td>
+      <td>27.1</td>
+    </tr>
+    <tr>
+      <th class="city">Miami</th>
+      <td>539</td>
+      <td>18.4</td>
+      <td>8.5</td>
+      <td>26.9</td>
+    </tr>
+    <tr>
+      <th class="city">Cleveland</th>
+      <td>457</td>
+      <td>17.7</td>
+      <td>8.8</td>
+      <td>26.5</td>
+    </tr>
+    <tr>
+      <th class="city">Chicago</th>
+      <td>689</td>
+      <td>15.2</td>
+      <td>10.5</td>
+      <td>25.7</td>
+    </tr>
+    <tr>
+      <th class="city">New York</th>
+      <td>602</td>
+      <td>13.0</td>
+      <td>10.0</td>
+      <td>23.0</td>
+    </tr>
+  </tbody>
+</table>
+
+We would be pleased to compile similar data from our historical records to meet your needs. Just inquire at [exposales@recruitmilitary.com](mailto:exposales@recruitmilitary.com "Email exposales@recruitmilitary.com").
+
+<p class="author">Larry Slagel is Senior Vice President of Opportunity Expos and Professional Services at RecruitMilitary and a former Captain in the United States Marine Corps. Contact him at (513) 683-5020 or <a href="mailto:&#x6C;&#x61;&#x72;&#x72;&#x79;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;" title="Email Larry Slagel">&#x6C;&#x61;&#x72;&#x72;&#x79;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;</a>.</p>

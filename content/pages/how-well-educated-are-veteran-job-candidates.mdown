@@ -1,0 +1,56 @@
+read more: Read more&hellip;
+categories: hiring-veterans
+date: June 2010
+author: Larry Slagel
+summary: For starters, more than 80 percent of the candidates in our database have educations beyond the high school level, and almost 30 percent have a bachelor's degree or a graduate degree.
+
+# How Well-Educated Are Veteran Job Candidates?
+
+As shown in the accompanying table, more than 80 percent of the registered candidates in our database at <a href="http://recruitmilitary.com" title="RecruitMilitary.com" target="_blank">recruitmilitary.com</a> have educations beyond the high school level, and almost 30 percent have a bachelor's degree or a graduate degree. The database consists of men and women who are transitioning from active duty to civilian life, veterans who already have civilian work experience, members of the National Guard and reserves, and military spouses.
+
+<a href="/attachments/education_table_06_23_2010_large.png" title="Educational Attainment Levels of Job Candidates in the Database at recruitmilitary.com" onclick="return popWindow(this, {title: 'EducationalAttainmentLevelsOfJobCandidatesInTheDatabase', width: 1000, height: 270})"><img src="/attachments/education_table_06_23_2010.png" alt="Educational Attainment Levels of Job Candidates in the Database at recruitmilitary.com" width="550" height="157" /></a>
+
+The above table lists educational attainment levels according to pay grades. <a href="/attachments/pay_grade_table.jpg" title="Pay Grade Table" onclick="return popWindow(this, {title: 'PayGradeTable', width: 715, height: 492})">Another table</a> translates those grades into ranks and rates; all of the designations listed in the second table are known as ranks, except those for enlisted personnel in the Navy, which are called rates. The ranks and rates of Coast Guard personnel are virtually identical to those of Navy personnel.
+
+In the first table, the figure in the lower right-hand cell---359,892---represents the number of individuals whose registration profiles at <a href="http://recruitmilitary.com" title="RecruitMilitary.com" target="_blank">recruitmilitary.com</a> included their education levels when we pulled the data on June 21 and 22, 2010. On the latter date, the total number of candidates in the database was 448,096. Over the past year, the database has grown at a rate of 235 candidates per day.  
+
+## Great Data for Educational Institutions
+
+The educational attainment table shows that job seekers who were, or are, enlisted personnel are prime candidates for continuing education programs. Those personnel have a good educational base, but relatively few have bachelor's or graduate degrees. Institutions that offer such degrees as well as associate's degrees and technical-certification programs can recruit gainfully from this group. 
+
+Personnel who were, or are, warrant officers or commissioned officers are always good candidates for master's degree programs. This is particularly true for junior military officers (JMO's)—O-1's -- O-3's.
+
+To help educational institutions recruit, we can send out E-Mail Blasts to candidates targeted according to rank or rate, educational attainment level, location etc. And, of course, institutions who have bought search licenses from us can pull up registration profiles and resumes using the same criteria.
+
+## Great Data for Employers
+
+The good news for direct employers is that a high percentage of candidates with military backgrounds have educations beyond the high-school level. That attainment translates into shallower learning curves for newer employees. The higher attainment also means better spoken and written communication skills, quicker comprehension of instructions, and better matches for higher-level positions.
+
+## Great Data for Franchisors
+
+The higher levels of education among transitioning and veteran military translate into great opportunities for franchisors: Individuals with military background are well prepared to handle the intellectual components of operating a franchise—accounting, logistics, scheduling, etc. And there are plenty of senior enlisted personnel and senior officers who have the resources and maturity necessary to handle the responsibilities of a franchise and make it go.
+
+We would be pleased to elaborate on any of the information in this article and to provide other breakdowns of our database. Just contact your RecruitMilitary Account Executive---or me.
+
+<p class="author">Larry Slagel is Senior Vice President of Opportunity Expos and Professional Services at RecruitMilitary and a former Captain in the United States Marine Corps. Contact him at (513) 683-5020 or 
+<script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
+"harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\""+
+"\\\\,l=x.length;for(i=0;i<l;i++){y%=127;o+=String.fromCharCode(x.charCodeAt" +
+"(i)^(y++));}return o;}f(\\\"\\\\PZUBU\\\\\\\\\\\\\\\\TO\\\\\\\\022JLV4$.-lg" +
+"z&h!8.*p\\\\\\\\022m=0;? :l;9+(\\\\\\\\\\\"\\\\\\\\\\\\034/;<\\\\\\\\022\\\\"+
+"\\\\024\\\\\\\\013\\\\\\\\027\\\\\\\\t\\\\\\\\014\\\\\\\\n\\\\\\\\016\\\\\\" +
+"\\034\\\\\\\\010\\\\\\\\030\\\\\\\\022B\\\\\\\\016\\\\\\\\001\\\\\\\\002,SR" +
+"\\\\\\\\007\\\\\\\\035\\\\\\\\001\\\\\\\\032\\\\\\\\022E%X>\\\\\\\\021\\\\\\"+
+"\\034\\\\\\\\027l!Nbvw\\\\\\\\177'[ekliaR-.}saflVe}zhnuisvLHVBV\\\\\\\\\\\\" +
+"\\\\\\\\\\\\010DGD\\\\\\\\026\\\\\\\\004M\\\\\\\\023\\\\\\\\014\\\\\\\\006\\"+
+"\\\\\\013\\\\\\\\001\\\\\\\\t\\\"\\\\,52)\\\"(f};)lo,0(rtsbus.o nruter};)i(" +
+"tArahc.x=+o{)--i;0=>i;1-l=i(rof}}{)e(hctac};l=+l;x=+x{yrt{)77=!)31/l(tAedoC" +
+"rahc.x(elihw;lo=l,htgnel.x=lo,\\\"\\\"=o,i rav{)x(f noitcnuf\")"             ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
+.</p>

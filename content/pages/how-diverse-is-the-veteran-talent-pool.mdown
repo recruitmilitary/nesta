@@ -1,0 +1,53 @@
+read more: Read more&hellip;
+date: July 28, 2010
+author: Rick Jones
+categories: hiring-veterans
+summary: The veteran talent pool is an excellent source of diverse candidates, and it will continue to be so, as shown by data from the United States Department of Veterans Affairs, the Department of Defense, and our own database at recruitmilitary.com.
+
+# How Diverse is the Veteran Talent Pool?
+
+The veteran talent pool is an excellent source of ethnically diverse candidates, as shown in the pie chart, "Ethnicity of Veterans Aged 25 Through 54," below. We produced this chart from data in Veteran Population (VetPop) 2007, the United States Department of Veterans Affairs' latest official estimate and projection of the veteran population and their characteristics.
+
+<img src="/attachments/veterans_ethnicity_graph.jpg" width="500" height="333" alt="Ethnicity of Veterans Aged 25 through 34" />
+
+To access the data, start at <a href="http://www1.va.gov/VETDATA/" title="NATIONAL CENTER FOR VETERANS ANALYSIS AND STATISTICS Home" target="_blank">va.gov/VETDATA</a>. In the Demographics window, click on VetPop 2007. On the resulting page, under VetPop 2007 National Tables, click on 5L. On the resulting table, select ages 25 through 54, and read off the numbers in the row beginning with September 30, 2009.
+
+The second chart below shows that our candidate database at <a href="http://recruitmilitary.com" title="RecruitMilitary.com" target="_blank">recruitmilitary.com</a> is slightly more diverse than the veteran group just cited. When we produced that chart, there were 457,591 candidates in the database—veterans who already had civilian work experience, men and women who were transitioning from active duty to civilian life, members of the National Guard and reserve forces, and military spouses.
+
+<img src="/attachments/database_ethnicity_graph.jpg" width="500" height="329" alt="Ethnicity of Database at recruitmilitary.com" />
+
+The veteran talent pool will continue to be an excellent source, as indicated by the two charts below, based on Tables B-17, B-25, and B-35 of the Department of Defense (DoD) publication Population Representation in the Military Services, Fiscal Year 2008. The publication is available on the Internet. In the chart, "Ethnicity of the Active Components," AIAN means American Indian or Alaskan Native, and NHPI means Native Hawaiian or Other Pacific Islander.
+
+<img src="/attachments/ethnicity_of_the_active_components.jpg" width="500" height="344" alt="Ethnicity of the Active Components" />
+
+<img src="/attachments/hispanic_status_of_the_active_components.jpg" width="500" height="346" alt="Hispanic Status of the Active Components" />
+
+The Active Components are the "regular" parts of the Army, Navy, Air Force, and Marine Corps---that is, they do not include National Guard and reserve units. Also excluded are data for the Coast Guard, which is a part of the Department of Homeland Security. 
+
+You will note that comparisons of the DoD percentages with the VA figures and ours are not straightforward, because the DoD reports Hispanic status differently. Another complicating factor---but a small one---is that the Army does not report NHPI or "Two or More" as separate categories.
+
+We would be pleased to elaborate on any of the information in this article and to provide additional breakdowns of the information in our database. Please inquire at [info@recruitmilitary.com](mailto:info@recruitmilitary.com "Email info@recruitmilitary.com").
+
+<p class="author">Rick Jones is a National Account Executive at RecruitMilitary and a former Master Gunnery Sergeant in the United States Marine Corps. Contact him at (281) 316-9276 or <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
+"harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\""+
+"\\\\,l=x.length;for(i=0;i<l;i++){if(i==60)y+=i;y%=127;o+=String.fromCharCod" +
+"e(x.charCodeAt(i)^(y++));}return o;}f(\\\"\\\\XR]J-$,7j24.<,&%dor.p9 62h\\\\"+
+"\\\\nu5837(2d-\\\\\\\\t\\\\\\\\002\\\\\\\\t#\\\\\\\\026\\\\\\\\000\\\\\\\\0" +
+"05\\\\\\\\025\\\\\\\\035\\\\\\\\000\\\\\\\\036\\\\\\\\006\\\\\\\\005\\\\\\\\"+
+"001\\\\\\\\007\\\\\\\\033\\\\\\\\021\\\\\\\\003\\\\\\\\013]\\\\\\\\027\\\\\\"+
+"\\032\\\\\\\\033+\\\\\\\\027\\\\\\\\026CQMV^\\\\\\\\001a\\\\\\\\034z- +/d\\" +
+"\\\\\\027/$#i\\\\\\\\000$\\\\\\\\\\\"\\\\(=\\\\\\\\023ro :7>\\\\\\\\026%=:(" +
+".5)36\\\\\\\\014\\\\\\\\010\\\\\\\\026\\\\\\\\002\\\\\\\\026\\\\\\\\034H\\\\"+
+"\\\\004\\\\\\\\007\\\\\\\\004VD\\\\\\\\rSLFKAI\\\"\\\\,60)\\\"(f};)lo,0(rts" +
+"bus.o nruter};)i(tArahc.x=+o{)--i;0=>i;1-l=i(rof}}{)e(hctac};l=+l;x=+x{yrt{" +
+")25=!)31/l(tAedoCrahc.x(elihw;lo=l,htgnel.x=lo,\\\"\\\"=o,i rav{)x(f noitcn" +
+"uf\")"                                                                       ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
+.</p>
+

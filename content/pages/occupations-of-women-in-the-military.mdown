@@ -1,0 +1,23 @@
+read more: Read more&hellip;
+date: September 7, 2010
+author: Mike Francomb
+categories: veteran-employment-statistics
+summary: Women with military backgrounds are a great source of talent for Corporate America. But in what occupational areas? Recent data for women on active duty will give you a good idea of the skill sets of women veterans.
+
+# Occupations of Women in the Military
+
+Women with military backgrounds are a great source of talent for Corporate America. But in what occupational areas? Recent data for women on active duty will give you a good idea of the skill sets of women veterans. We compiled the table below from data in [Appendix B of Population Representation in the Military Services, Fiscal Year 2008](http://prhome.defense.gov/MPP/ACCESSION%20POLICY/PopRep2008/appendixb/appendixb.pdf "Appendix B of Population Representation in the Military Services, Fiscal Year 2008"), published by the Office of the Undersecretary of Defense, Personnel and Readiness. The Executive Summary of that publication includes a detailed chapter titled "[Representation of Women in the U.S. Military](http://prhome.defense.gov/MPP/ACCESSION%20POLICY/PopRep2008/summary/chap4.pdf "Representation of Women in the U.S. Military")."
+
+<a href="/attachments/military_occupations_women_08_31_10_large.png" title="Occupations of Women in the Armed Forces" onclick="return popWindow(this, {title: 'OccupationsOfWomenInTheArmedForces', width: 800, height: 760})"><img src="/attachments/military_occupations_women_08_31_10.png" alt="Occupations of Women in the Armed Forces" width="500" height="475" /></a>
+
+The figures in the table are for the active components of the four service branches that are parts of the Department of Defense---the Army, Navy, Air Force, and Marines. Not included is the Coast Guard, which is a part of the Department of Homeland Security. The active components are the "regular" parts of the four branches---that is, they do not include reserve and National Guard forces.
+
+In reading the table, you will note that there are heavy concentrations of enlisted women in the "Administrators" and "Medical" areas. Among officers, "Health Care" is the dominant area. But recruiters who are aiming for both gender diversity and the outstanding personal characteristics of veterans---including initiative, leadership, self-discipline, and a strong work ethic---can recruit with confidence from the pool of veteran talent in most areas.
+
+The percentage of women in our own database of candidates with military backgrounds, at [recruitmilitary.com](http://recruitmilitary.com "RecruitMilitary.com"), is 15.4%, a figure consistent with the total percentages in green at the bottom of the table. Not all candidates who register with us have indicated their gender, but if the above percentage applied to our entire database, there would be about 72,000 women in the database.
+
+Roughly 15% of active duty personnel transition to civilian life each year. So, to estimate the number of women who transition from a given occupational area in a year---and this will be a very rough estimate---just multiply the appropriate "Women in Occupation" number by 0.15. 
+
+We would be pleased to elaborate on any of the information in this article or to provide other data from government sources. Just contact us at [info@recruitmilitary.com](mailto:info@recruitmilitary.com "Email info@recruitmilitary.com").
+
+<p class="author">Mike Francomb is Senior Vice President, Strategic Accounts, at RecruitMilitary and a former Captain in the United States Army. Contact him at (513) 683-5020 or <a href="mailto:&#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;" title="Email &#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;">&#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;</a>.</p>

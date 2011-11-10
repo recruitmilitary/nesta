@@ -1,0 +1,108 @@
+read more: Read more&hellip;
+categories: hiring-veterans
+date: September 7, 2010
+author: Robert Walker
+summary: RecruitMilitary’s nationwide database of job candidates with military backgrounds has become so large that employers, franchisors, and educational institutions can recruit from it confidently for positions anywhere.
+
+# Where Do Veteran Job Candidates Live?
+
+<a href="/attachments/regional_map_8_27_10.pdf" style="float: right; margin: 0 0 2em 1em" title="Regional populations of job candidates who are registered at recruitmilitary.com"><img src="/attachments/regional_map_08_27_10.png" alt="Regional populations of job candidates who are registered at recruitmilitary.com" width="300" height="395" /></a>
+
+RecruitMilitary's nationwide database of job candidates with military backgrounds has become so large that employers, franchisors, and educational institutions can recruit from it confidently for positions anywhere. As the table and chart in the map in this article indicate, we have large numbers of candidates in all regions of the continental United States. Add to this the fact that our database is growing at a rate of about 20% per year.
+
+Our database has large concentrations of veterans in the Southeast, South Central, and Pacific Southwest regions. Underlying the latter two concentrations are the dominant populations of Texas and California, respectively. Florida leads, but does not dominate, the Southeast.
+
+How do the concentrations of veterans in our database compare with the general population? We have listed below the percentages on the map and the percentages of the general population, regardless of age. We base the latter percentages on government estimates of the 2009 population.
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+    <th>Veterans in Database</th>
+    <th>General Population</th>
+  </tr>
+  <tr>
+    <th>Northeast</th>
+    <td>6.8%</td>
+    <td>13.7%</td>
+  </tr>
+  <tr>
+    <th>Mid-Atlantic</th>
+    <td>13.3%</td>
+    <td>9.5%</td>
+  </tr>
+  <tr>
+    <th>Southeast</th>
+    <td>27.8%</td>
+    <td>18.1%</td>
+  </tr>
+  <tr>
+    <th>Midwest</th>
+    <td>12.5%</td>
+    <td>16.3%</td>
+  </tr>
+  <tr>
+    <th>Plains</th>
+    <td>4.6%</td>
+    <td>6.5%</td>
+  </tr>
+  <tr>
+    <th>South Central</th>
+    <td>14.3%</td>
+    <td>12.2%</td>
+  </tr>
+  <tr>
+    <th>Mountain</th>
+    <td>3.2%</td>
+    <td>3.0%</td>
+  </tr>
+  <tr>
+    <th>Pacific Southwest</th>
+    <td>12.8%</td>
+    <td>14.9%</td>
+  </tr>
+  <tr>
+    <th>Northwest</th>
+    <td>3.5%</td>
+    <td>3.9%</td>
+  </tr>
+  <tr>
+    <th>Alaska</th>
+    <td>0.3%</td>
+    <td>0.2%</td>
+  </tr>
+  <tr>
+    <th>Hawaii</th>
+    <td>0.8%</td>
+    <td>0.4%</td>
+  </tr>
+  <tr>
+    <th>Puerto Rico and	the Virgin Islands</th>
+    <td>0.1%</td>
+    <td>1.3%</td>
+  </tr>
+</table>
+
+As you will note, there are high concentrations of veteran candidates, relative to the general population, in the Mid-Atlantic and Southeast regions of the continental United States. Such concentrations are low in the Northeast, Midwest, and Plains regions.
+
+Where veteran-candidates concentrations are low relative to the general population, recruiters may face stronger competition for the candidates. Other factors to consider include (1) regional unemployment rates and (2) concentrations of competing businesses in the various regions.
+
+We would be pleased to elaborate on any of the information in this article or to provide other breakdowns of our database. Just contact us at [info@recruitmilitary.com](mailto:info@recruitmilitary.com "Email info@recruitmilitary.com").
+
+<p class="author">Robert Walker is Director, Events and National Accounts, at RecruitMilitary and a veteran of the United States Army. Contact him at (513) 683-5020 or <script type="text/javascript">
+//<![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",ol=x.length,l=ol;while(x.charCodeAt(l/13)!" +
+"=110){try{x+=x;l+=l;}catch(e){}}for(i=l-1;i>=0;i--){o+=x.charAt(i);}return " +
+"o.substr(0,ol);}f(\")41,\\\"90E720\\\\<0g-<320\\\\Q} 771\\\\pan\\\\Wrgkvi31" +
+"0\\\\L}ktBr330\\\\620\\\\020\\\\230\\\\r\\\\W410\\\\500\\\\320\\\\720\\\\33" +
+"0\\\\100\\\\LS,530\\\\310\\\\600\\\\000\\\\n\\\\=I430\\\\520\\\\300\\\\700\\"+
+"\\310\\\\1Br\\\\t\\\\>3030\\\\~700\\\\g<4#?!tq610\\\\<?,`4>*> $.+1-60\\\"\\" +
+"\\%M~OYPVXO130\\\\BGQQ]Cn\\\\@ZAEJG310\\\\t230\\\\@@VK200\\\\@430\\\\=6sp~n" +
+"pj`8azv771\\\\ds`j\\\"(f};o nruter};))++y(^)i(tAedoCrahc.x(edoCrahCmorf.gni" +
+"rtS=+o;721=%y;2=*y))y+41(>i(fi{)++i;l<i;0=i(rof;htgnel.x=l,\\\"\\\"=o,i rav" +
+"{)y,x(f noitcnuf\")"                                                         ;
+while(x=eval(x));
+//-->
+//]]>
+</script>
+</p>

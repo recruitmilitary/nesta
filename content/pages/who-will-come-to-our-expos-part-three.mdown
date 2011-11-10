@@ -1,0 +1,276 @@
+read more: Read more&hellip;
+date: September 7, 2010
+author: Larry Slagel
+categories: opportunity-expos
+summary: Employers, franchisors, and educational institutions that wish to recruit from a particular branch of the service can select appropriate RecruitMilitary Veteran Opportunity Expo venues based on historical data from our pre-registration files.
+
+# Who Will Come to our Expos? Part Three: Branch of the Service  
+
+Employers, franchisors, and educational institutions that wish to recruit from a particular branch of the service can select appropriate RecruitMilitary Veteran Opportunity Expo venues based on historical data from our pre-registration files. 
+
+In the table below, we have listed data for the places where we will produce Expos from September 2010 through December 2011. The data are for the most recent four Expos at the various venues. For organizations that wish to recruit from the Army and are interested in a Pick 4 or Pick 8 [Multiple-Event Discount Package](http://docs.recruitmilitary.com/pdf/info_sheet-opportunity_expos_discount_packages.pdf "RecruitMilitary Veteran Opportunity Expos Multiple-Event Discount Packages"), we have listed the venues in order of percent registration of candidates who were, or still are, members of the Army or one of its reserve components. For organizations that wish to recruit from other branches, we have used red numbers for the top four percentages and green for the next four.
+
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <th>&nbsp;</th>
+    <th>Average<br/>Pre-Registration</th>
+    <th>Army</th>
+    <th>Navy</th>
+    <th>Air Force</th>
+    <th>Marines</th>
+  </tr>
+  <tr>
+    <th>Nashville</th>
+    <td>623</td>
+    <td>51.6</td>
+    <td>13.5</td>
+    <td>12.3</td>
+    <td>9.6</td>
+  </tr>
+  <tr>
+    <th>Austin</th>
+    <td>745</td>
+    <td>45.8</td>
+    <td>12.3</td>
+    <td>15.4</td>
+    <td>9.4</td>
+  </tr>
+  <tr>
+    <th>Raleigh</th>
+    <td>647</td>
+    <td>45.7</td>
+    <td>15.2</td>
+    <td>15.2</td>
+    <td class="green">15.5</td>
+  </tr>
+  <tr>
+    <th>Kansas City</th>
+    <td>450</td>
+    <td>44.4</td>
+    <td>14.9</td>
+    <td class="green">17.3</td>
+    <td class="green">15.1</td>
+  </tr>
+  <tr>
+    <th>Indianapolis</th>
+    <td>508</td>
+    <td>44.3</td>
+    <td>16.1</td>
+    <td>14.7</td>
+    <td>12.2</td>
+  </tr>
+  <tr>
+    <th>Charlotte</th>
+    <td>778</td>
+    <td>42.8</td>
+    <td>15.1</td>
+    <td>15.0</td>
+    <td>10.5</td>
+  </tr>
+  <tr>
+    <th>Atlanta</th>
+    <td>885</td>
+    <td>42.7</td>
+    <td>18.9</td>
+    <td>14.3</td>
+    <td>9.1</td>
+  </tr>
+  <tr>
+    <th>Birmingham</th>
+    <td>389</td>
+    <td>42.7</td>
+    <td>17.3</td>
+    <td>16.8</td>
+    <td>10.9</td>
+  </tr>
+  <tr>
+    <th>Pittsburgh</th>
+    <td>303 </td>
+    <td>41.6</td>
+    <td>17.6</td>
+    <td>16.5</td>
+    <td>14.5</td>
+  </tr>
+  <tr>
+    <th>Seattle/Tacoma</th>
+    <td>659</td>
+    <td>41.6</td>
+    <td class="red">24.8</td>
+    <td>14.0</td>
+    <td>6.4</td>
+  </tr>
+  <tr>
+    <th>New York</th>
+    <td>602</td>
+    <td>40.1</td>
+    <td>16.5</td>
+    <td>11.7</td>
+    <td class="red">20.5</td>
+  </tr>
+  <tr>
+    <th>Houston</th>
+    <td>604</td>
+    <td>39.6</td>
+    <td class="green">21.8</td>
+    <td>11.9</td>
+    <td>11.1</td>
+  </tr>
+  <tr>
+    <th>Denver</th>
+    <td>524</td>
+    <td>39.0</td>
+    <td>16.2</td>
+    <td class="red">23.4</td>
+    <td>11.3</td>
+  </tr>
+  <tr>
+    <th>Boston</th>
+    <td>439</td>
+    <td>38.4</td>
+    <td class="green">19.3</td>
+    <td>14.8</td>
+    <td>14.6</td>
+  </tr>
+  <tr>
+    <th>Chicago</th>
+    <td>689</td>
+    <td>37.7</td>
+    <td>18.7</td>
+    <td>12.7</td>
+    <td class="green">15.1</td>
+  </tr>
+  <tr>
+    <th>Cincinnati</th>
+    <td>583</td>
+    <td>37.6</td>
+    <td>16.9</td>
+    <td>16.8</td>
+    <td>12.0</td>
+  </tr>
+  <tr>
+    <th>Washington</th>
+    <td>793</td>
+    <td>37.5</td>
+    <td>17.9</td>
+    <td>16.0</td>
+    <td class="red">16.1</td>
+  </tr>
+  <tr>
+    <th>Miami</th>
+    <td>539</td>
+    <td>37.4</td>
+    <td>18.5</td>
+    <td>12.3</td>
+    <td>14.0</td>
+  </tr>
+  <tr>
+    <th>Tampa</th>
+    <td>779</td>
+    <td>37.0</td>
+    <td>19.1</td>
+    <td class="green">21.4</td>
+    <td>11.8</td>
+  </tr>
+  <tr>
+    <th>Baltimore</th>
+    <td>665</td>
+    <td>36.1</td>
+    <td>17.8</td>
+    <td>15.9</td>
+    <td>10.2</td>
+  </tr>
+  <tr>
+    <th>Dallas</th>
+    <td>787</td>
+    <td>35.4</td>
+    <td>18.4</td>
+    <td class="green">17.4</td>
+    <td>13.7</td>
+  </tr>
+  <tr>
+    <th>Philadelphia</th>
+    <td>692</td>
+    <td>33.6</td>
+    <td>16.9</td>
+    <td class="green">17.3</td>
+    <td>14.5</td>
+  </tr>
+  <tr>
+    <th>Cleveland</th>
+    <td>457</td>
+    <td>35.3</td>
+    <td>17.6</td>
+    <td>15.7</td>
+    <td class="green">15.2</td>
+  </tr>
+  <tr>
+    <th>St. Louis</th>
+    <td>407</td>
+    <td>33.3</td>
+    <td>15.5</td>
+    <td class="red">22.2</td>
+    <td>14.1</td>
+  </tr>
+  <tr>
+    <th>New Orleans</th>
+    <td>364</td>
+    <td>29.9</td>
+    <td class="green">22.9</td>
+    <td>13.5</td>
+    <td>13.6</td>
+  </tr>
+  <tr>
+    <th>Las Vegas</th>
+    <td>529 (3 Expos)</td>
+    <td>29.8</td>
+    <td>16.4</td>
+    <td class="red">35.6</td>
+    <td>10.1</td>
+  </tr>
+  <tr>
+    <th>Phoenix</th>
+    <td>569</td>
+    <td>29.5</td>
+    <td>16.6</td>
+    <td class="red">20.4</td>
+    <td>12.8</td>
+  </tr>
+  <tr>
+    <th>Los Angeles</th>
+    <td>631</td>
+    <td>26.0</td>
+    <td class="green">23.2</td>
+    <td>12.6</td>
+    <td class="red">23.0</td>
+  </tr>
+  <tr>
+    <th>Jacksonville</th>
+    <td>740</td>
+    <td>23.7</td>
+    <td class="red">42.4</td>
+    <td>8.9</td>
+    <td>8.0</td>
+  </tr>
+  <tr>
+    <th>Norfolk</th>
+    <td>711</td>
+    <td>20.7</td>
+    <td class="red">45.7</td>
+    <td>10.0</td>
+    <td>6.7</td>
+  </tr>
+  <tr>
+    <th>San Diego</th>
+    <td>648</td>
+    <td>16.4</td>
+    <td class="red">37.5</td>
+    <td>7.3</td>
+    <td class="red">22.5</td>
+  </tr>
+</table>
+
+Note that, for a given listing, the percentages do not sum to 100.0%. For example, the percentages for Nashville sum to 87.0%. Some pre-registrants who do not show up in the percentages are Coast Guard veterans, others are military spouses, and still others simply did not indicate their branches when they pre-registered.
+
+We would be pleased to discuss other historical data or the use of other factors to select venues for Multiple-Event Discount Packages. Please inquire at [exposales@recruitmilitary.com](mailto:exposales@recruitmilitary.com "Email exposales@recruitmilitary.com").
+
+<p class="author">Larry Slagel is Senior Vice President of Sales at RecruitMilitary and a former Captain in the United States Marine Corps. Contact him at (513) 683-5020 or <a href="mailto:&#x6C;&#x61;&#x72;&#x72;&#x79;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;" title="Email Larry Slagel">&#x6C;&#x61;&#x72;&#x72;&#x79;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;</a>.</p>

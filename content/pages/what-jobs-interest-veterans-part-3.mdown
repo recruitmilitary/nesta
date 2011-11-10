@@ -1,0 +1,166 @@
+read more: Read more&hellip;
+date: June 2010
+author: Mike Francomb
+categories: veteran-job-interests
+summary: We know the answer because we ask veterans to select their future work interests when they register as job candidates in our database at [RecruitMilitary.com](http://recruitmilitary.com "RecruitMilitary.com"). We ask them select their interests from a list of 67 industries and occupations.
+
+# What Jobs Interest Veterans? Part Three: Junior Enlisted Personnel
+
+In our April 2010 newsletter, I said that we know what jobs interest veterans because we ask them to select their future interests when they register as job candidates in our database at [recruitmilitary.com](http://recruitmilitary.com "RecruitMilitary"). We ask them to select their interests from a list of 67 industries and occupations. Each candidate may select up to 10 interests.
+
+In the April article, we listed the top 20 selections made by Captains in the Army and their equivalents in the Navy, Air Force, Marine Corps, and Coast Guard. In an article in our May 2010 newsletter, I listed the top 20 picked by personnel in pay grades E-6, E-7, and E-8---Staff Sergeants and up in the Army and Marine Corps, Petty Officers first class and up in the Navy and Coast Guard, and Technical Sergeants and up in the Air Force.
+
+This month's article lists the top 20 selected by enlisted personnel in pay grades E-1 through E-5. As shown in <a href="/attachments/pay_grade_table.jpg" title="Pay Grade Table" onclick="return popWindow(this, {title: 'PayGradeTable', width: 715, height: 492})">this table</a>, E-1's through E-3's are Privates First Class and below in the Army, Seamen and below in the Navy, Airmen 1st Class and below in the Air Force, and Lance Corporals and below in the Marine Corps. The designations for Coast Guard personnel are virtually the same as those for the Navy. E-1's through E-3's often provide great development talent in the most junior roles in a company.  Because they are the "doers" in the service, they work well in teams to accomplish daily missions using their hands-on skills.  These may include roles like maintenance technician, network administrator, or driver.
+
+E-4's are Corporals and Specialists in the Army, Petty Officers third class in the Navy and Coast Guard, Senior Airmen in the Air Force, and Corporals in the Marine Corps. These personnel often make great supervisors for small teams of three to eight individuals.  Additionally, with a few more years of experience under their belt, they've developed a level of maturity that when combined with their technical competence, makes them an excellent choice for field service or route sales type roles.  
+
+E-5's are Sergeants in the Army, Petty Officers second class in the Navy and Coast Guard, Staff Sergeants in the Air Force, and Sergeants in the Marine Corps. These individuals bring a bit more practical and formal leadership training to the table as they've typically completed multiple enlistment periods in the service and attended leadership schools each of the services operates. These junior leaders perform well in small team (up to 10-20 members) leadership roles.  Additionally, high-energy individuals at this level perform well in sales roles that require a high level of activity and persistence.
+
+When we compiled the table, there were 269,551 candidates in grades E-1 through E-5 in our database, 62% of all registered candidates. The numbers in the table sum to much more than 269,551 because, as indicated earlier, each candidate may select up to 10 interests. In fact, on average, they select about 3.5 interests.
+
+<table class="job-interest" cellspacing="0" cellpadding="0">
+  <tr>
+    <th>
+      Law Enforcement/Legal/Security
+    </th>
+    <td class="pad right">
+      52,485
+    </td>
+    <th>
+      Management/Supervision
+    </th>
+    <td>
+      42,314
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Computers
+    </th>
+    <td class="pad right">
+      34,067
+    </td>
+    <th>
+      Administrative/Clerical/Support
+    </th>
+    <td>
+      31,820
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Customer Service
+    </th>
+    <td>
+      30,929
+    </td>
+    <th>
+      Information Technology
+    </th>
+    <td class="pad right">
+      28,580
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Public Sector/Government
+    </th>
+    <td>
+      27,729
+    </td>
+    <th>
+      Education/Training/Counseling
+    </th>
+    <td class="pad right">
+      25,666
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Maintenance/Installation/Repair
+    </th>
+    <td>
+      24,942
+    </td>
+    <th>
+      Aerospace/Defense
+    </th>
+    <td class="pad right">
+      24,681
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Warehouse/Distribution
+    </th>
+    <td>
+      24,289
+    </td>
+    <th>
+      Logistics/Transportation
+    </th>
+    <td class="pad right">
+      24,019
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Human Resources
+    </th>
+    <td>
+      20,536
+    </td>
+    <th>
+      Telecommunications
+    </th>
+    <td class="pad right">
+      19,977
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Manufacturing/Operations/Production
+    </th>
+    <td>
+      18,742
+    </td>
+    <th>
+      Electronics Technician
+    </th>
+    <td class="pad right">
+      17,505
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Construction/Mining/Trades
+    </th>
+    <td>
+      17,440
+    </td>
+    <th>
+      Sports/Recreation
+    </th>
+    <td class="pad right">
+      17,434
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Medical/Healthcare
+    </th>
+    <td>
+      15,927
+    </td>
+    <th>
+      Intelligence
+    </th>
+    <td class="pad right">
+      15,321
+    </td>
+  </tr>
+</table>
+
+We would be pleased to elaborate on any of this information or to provide other breakdowns of our database. Just contact your RecruitMilitary Account Executive---or me.
+
+<p class="author">Mike Francomb is Senior Vice President, Strategic Accounts, at RecruitMilitary and a former Captain in the United States Army. Contact him at (513) 683-5020 or <a href="mailto:&#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;" title="Email &#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;">&#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;</a>.</p>

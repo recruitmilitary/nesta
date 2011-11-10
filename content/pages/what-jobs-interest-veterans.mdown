@@ -1,0 +1,162 @@
+read more: Read more&hellip;
+date: April 2010
+author: Mike Francomb
+categories: veteran-job-interests
+summary: We know the answer because we ask veterans to select their future work interests when they register as job candidates in our database at [RecruitMilitary.com](http://recruitmilitary.com "RecruitMilitary.com"). We ask them select their interests from a list of 67 industries and occupations.
+
+# What Jobs Interest Veterans?
+
+We know the answer because we ask veterans to select their future work interests when they register as job candidates in our database at [RecruitMilitary.com](http://recruitmilitary.com). We ask them select their interests from a list of 67 industries and occupations. Each candidate may select up to 10 interests.
+
+The table below lists the selections made by O-3s&mdash;captains in the Army, Air Force, and Marine Corps,and lieutenants in the Navy and Coast Guard. When we prepared the table, there were 438,282 candidates in the database.
+
+When we compiled the table, there were 51,128 officers in our database&mdash;11.7% of the total number of candidates. There were 15,244 O-3s in the database&mdash;29.8% of the officers and 3.5% of the total database. The figures in the table show approximately the numbers of O-3s who indicated a future work interest in one or more of the top 20 of the 67 industries and occupations. The numbers sum to much more than 15,244 because, as indicated earlier, each candidate may select up to 10 interests. In fact, on average, they select about 3.5 interests.
+
+Why did we select O-3s? Because they are the largest classification of junior military officers (JMOs) in our database, and because former JMOs are especially valuable candidates for certain civilian positions. JMOs include second lieutenants, first lieutenants, and captains in the Army, Air Force, and Marine Corps; and Ensigns, Lieutenants Junior Grade, and Lieutenants in the Navy and Coast Guard. Former JMOs have served from 3 to 10 years in tactical leadership roles. Those candidates find civilian homes as operations supervisors, territory managers, process engineers, and other mid-level leaders.
+
+<table class="job-interest" cellspacing="0" cellpadding="0">
+  <tr>
+    <th>
+      Management/Supervision
+    </th>
+    <td class="pad right">
+      4958
+    </td>
+    <th>
+      Banking/Financial Services
+    </th>
+    <td>
+      1369
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Consulting
+    </th>
+    <td class="pad right">
+      2637
+    </td>
+    <th>
+      Facilities Management
+    </th>
+    <td>
+      1363
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Aerospace/Defense
+    </th>
+    <td class="pad right">
+      2589
+    </td>
+    <th>
+      Sales/Management
+    </th>
+    <td>
+      1195
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Public Sector/Government
+    </th>
+    <td class="pad right">
+      2430
+    </td>
+    <th>
+      Intelligence
+    </th>
+    <td>
+      1140
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Manufacturing/Operations/Production
+    </th>
+    <td class="pad right">
+      2297
+    </td>
+    <th>
+      Sports/Recreation
+    </th>
+    <td>
+      1065
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Education/Training/Counseling
+    </th>
+    <td class="pad right">
+      2199
+    </td>
+    <th>
+      Marketing
+    </th>
+    <td>
+      1062
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Logistics/Transportation
+    </th>
+    <td class="pad right">
+      2193
+    </td>
+    <th>
+      Sales
+    </th>
+    <td>
+      988
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Law Enforcement/Legal/Security
+    </th>
+    <td class="pad right">
+      1829
+    </td>
+    <th>
+      Computers
+    </th>
+    <td>
+      970
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Human Resources
+    </th>
+    <td class="pad right">
+      1498
+    </td>
+    <th>
+      Maintenance Management
+    </th>
+    <td>
+      888
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Information Technology
+    </th>
+    <td class="pad right">
+      1415
+    </td>
+    <th>
+      Engineering
+    </th>
+    <td>
+      868
+    </td>
+  </tr>
+</table>
+
+We would be pleased to elaborate on any of this information or to provide other breakdowns of our database. Just contact your RecruitMilitary Account Executive&mdash;or me.
+
+<p class="author">Mike Francomb is Senior Vice President, Strategic Accounts, at RecruitMilitary and a former Captain in the United States Army. Contact him at (513) 683-5020 or <a href="mailto:&#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;" title="Email &#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;">&#x6D;&#x69;&#x6B;&#x65;&#x40;&#x72;&#x65;&#x63;&#x72;&#x75;&#x69;&#x74;&#x6D;&#x69;&#x6C;&#x69;&#x74;&#x61;&#x72;&#x79;&#x2E;&#x63;&#x6F;&#x6D;</a>.</p>
