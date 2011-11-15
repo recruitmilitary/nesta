@@ -40,6 +40,6 @@ development:
   content: content
 
 production:
-  cache: false
+  cache: true
   content: /home/deploy/public_html/search-and-employ/current/content
   google_analytics_code: "UA-1579719-11"
