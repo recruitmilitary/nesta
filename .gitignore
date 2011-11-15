@@ -1,7 +1,5 @@
 ._*
 .bundle
 .DS_Store
-.rvmrc
 db/*.db
 public/cache
-
