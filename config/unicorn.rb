@@ -18,6 +18,7 @@ listen "#{working_directory}/tmp/sockets/unicorn.sock", :backlog => 2048
 
 stdout_path "#{working_directory}/log/unicorn.log"
 stderr_path "#{working_directory}/log/unicorn-error.log"
+pid "#{shared_path}/pids"
 
 ##
 # REE
