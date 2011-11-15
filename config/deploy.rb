@@ -37,16 +37,10 @@ namespace :deploy do
     run "/etc/init.d/search-and-employ upgrade"
   end
 
-  desc "Symlinks the database.yml"
-  task :symlink_config, :roles => :app do
-    run "ln -nfs #{deploy_to}/shared/config/config.yml #{release_path}/config/config.yml"
-  end
-
   desc "symlink sockets"
   task :symlink_sockets, :except => { :no_release => true } do
     run "ln -nfs #{shared_path}/sockets #{latest_release}/tmp/sockets"
   end
 end
 
-after 'deploy:update_code', 'deploy:symlink_config'
 after "deploy:update_code", "deploy:symlink_sockets"
