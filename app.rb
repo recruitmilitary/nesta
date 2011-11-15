@@ -4,9 +4,9 @@ require "builder"
 require "haml"
 require "sass"
 
-require_relative "lib/cache"
-require_relative "lib/configuration"
-require_relative "lib/models"
+require "lib/cache"
+require "lib/configuration"
+require "lib/models"
 
 set :cache_enabled, Nesta::Configuration.cache
 
