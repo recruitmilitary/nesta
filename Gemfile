@@ -8,6 +8,8 @@ gem "sinatra", "0.9.4"
 
 group :development do
   gem "shotgun"
+  gem "capistrano"
+  gem "capistrano-ext"
 end
 
 group :test do
