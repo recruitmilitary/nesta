@@ -1,4 +1,4 @@
-source :gemcutter
+source "http://rubygems.org"
 
 gem "builder", "2.1.2"
 gem "haml", "2.2.20"
@@ -18,4 +18,8 @@ group :development, :test do
   gem "rspec", "1.3.0"
   gem "rspec_hpricot_matchers", "1.0"
   gem "test-unit", "1.2.3"
+end
+
+group :production do
+  gem "unicorn"
 end
